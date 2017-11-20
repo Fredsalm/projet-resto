@@ -1,8 +1,6 @@
-body{
+header{
 	font-size: 18px;
 	margin: auto;
-}
-.header{	
 	background-image: url(https://cdn.pixabay.com/photo/2017/01/22/19/12/pizza-2000595_960_720.jpg);
 }
 
@@ -13,7 +11,6 @@ body{
 .menu-top ul{
 	display: flex;
 	justify-content: space-between;
-	margin-right: : 30%;
 }
 
 .menu-top ul li{
@@ -28,4 +25,9 @@ body{
 
 .image.container{
 	display: flex;
+}
+
+.photo {
+	margin: auto;
+	justify-content: center;
 }

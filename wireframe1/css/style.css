@@ -31,3 +31,24 @@ header{
 	margin: auto;
 	justify-content: center;
 }
+
+.section2{
+	background: black;
+	color:pink;
+	margin: auto;
+	
+}
+
+.logos ul {
+	display: flex;
+	list-style: none;
+	
+}
+
+.logos ul li {
+	text-align: center;
+	margin: auto;
+}
+.img{
+	width: 200%;
+}
